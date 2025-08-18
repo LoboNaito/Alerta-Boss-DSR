@@ -14,11 +14,11 @@ DEFAULT_DIGIMONS = [
         "recompensa": "Digital Hazard Coin",
         "recompensa_icon": "🪙",
         "horarios": [
-            {"hora": 19, "minuto": 30},
-            {"hora": 21, "minuto": 30}
+            {"hora": 19, "minuto": 29},
+            {"hora": 21, "minuto": 29}
         ],
         "recurrencia_dias": 1,
-        "fecha_inicio": datetime.datetime(2025, 8, 18, 19, 30, tzinfo=KST),
+        "fecha_inicio": datetime.datetime(2025, 8, 18, 19, 29, tzinfo=KST),
         "imagen": "https://dsrworldwiki.com/assets-opt/digimons/pumpmon-800.0d183a820368.avif",
         "color": 0x0099FF
     },
@@ -30,10 +30,10 @@ DEFAULT_DIGIMONS = [
         "recompensa": "Digital Hazard Coin",
         "recompensa_icon": "🪙",
         "horarios": [
-            {"hora": 20, "minuto": 40}
+            {"hora": 20, "minuto": 39}
         ],
         "recurrencia_dias": 1,
-        "fecha_inicio": datetime.datetime(2025, 8, 18, 20, 40, tzinfo=KST),
+        "fecha_inicio": datetime.datetime(2025, 8, 18, 20, 39, tzinfo=KST),
         "imagen": "https://dsrworldwiki.com/assets-opt/digimons/datamon-800.0616d90fb62c.avif",
         "color": 0xFF3366
     },
@@ -45,11 +45,11 @@ DEFAULT_DIGIMONS = [
         "recompensa": "Digital Hazard Coin",
         "recompensa_icon": "🪙",
         "horarios": [
-            {"hora": 23, "minuto": 0},
-            {"hora": 1, "minuto": 0}
+            {"hora": 22, "minuto": 59},
+            {"hora": 0, "minuto": 59}
         ],
         "recurrencia_dias": 1,
-        "fecha_inicio": datetime.datetime(2025, 8, 18, 23, 0, tzinfo=KST),
+        "fecha_inicio": datetime.datetime(2025, 8, 18, 22, 59, tzinfo=KST),
         "imagen": "https://dsrworldwiki.com/assets-opt/digimons/gottsumon-800.ca5003fad519.avif",
         "color": 0x0099FF
     },
